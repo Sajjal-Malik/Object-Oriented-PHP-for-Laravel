@@ -1,5 +1,5 @@
 <?php
-    include 'includes/PropertiesAndMethods.php';
+    include 'includes/PropertiesAndMethods.inc.php';
 ?>
 
 <!DOCTYPE html>

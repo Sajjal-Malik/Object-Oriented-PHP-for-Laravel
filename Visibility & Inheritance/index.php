@@ -1,5 +1,5 @@
 <?php
-    include 'includes/VisibiltiyAndInheritance.php';
+    include 'includes/VisibiltiyAndInheritance.inc.php';
 ?>
 
 <!DOCTYPE html>
