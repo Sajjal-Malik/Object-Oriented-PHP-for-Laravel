@@ -2,7 +2,7 @@
 
 
 class Dbh {
-    private $host = 'localhost';
+    private $host = '127.0.0.1';
     private $user = 'root';
     private $pwd = 'unbreakable';
     private $dbName = 'php_oop_db';

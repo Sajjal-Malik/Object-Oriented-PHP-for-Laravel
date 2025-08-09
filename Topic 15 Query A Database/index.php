@@ -15,7 +15,14 @@
 
     <?php
 
+        $testObj = new Test();
+        
+        // $testObj->getUsers();
 
+        // $testObj->getUsersStatement('John', 'Doe');
+
+        $testObj->setUsersStatement('John', 'Doe', '05-05-2024');
+       
     ?>
 
 </body>
