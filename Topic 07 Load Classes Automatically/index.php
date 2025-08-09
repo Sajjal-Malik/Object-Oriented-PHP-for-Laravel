@@ -1,5 +1,5 @@
 <?php
-// declare(strict_types=1);
+// declare(strict_types=1);   // here 1 means true in boolean
 include 'includes/AutoLoader.inc.php';
 ?>
 
